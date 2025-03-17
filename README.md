@@ -23,7 +23,7 @@ app.js: O arquivo JavaScript que contém a lógica de funcionamento da aplicaç�
 
 Como Rodar a Aplicação:
 
-Clone este repositório:
+Clone este repositório:<br>
 git clone https://github.com/VictorNoronhaDev/amigo-secreto.git <br>
 Abra o arquivo index.html em um navegador para começar a usar o aplicativo.
 
